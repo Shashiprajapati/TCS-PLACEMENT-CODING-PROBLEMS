@@ -3,7 +3,7 @@ Most asked Coding problems in C, Java and Python Language.
 
 
 TCS Coding Programming Questions Details
-TCS Programming Questions   	Number of times asked in the Test
+TCS Programming Questions ----   	Number of times asked in the Test-------
 String Reversal	              14 ,,,
 Average of two Numbers	      39,,,
 LCM of two Numbers	          51,,,
